@@ -1,0 +1,75 @@
+{
+	"folders": [
+		{
+			"name": "Programacion",
+			"path": "..\\Programacion"
+		},
+		{
+			"name": "garden",
+			"path": "..\\garden"
+		},
+		{
+			"name": "CLASE 1",
+			"path": "..\\CODERHOUSE\\CLASE 1"
+		},
+		{
+			"name": "CLASE 2",
+			"path": "..\\CODERHOUSE\\CLASE 2"
+		},
+		{
+			"name": "CLASE 3",
+			"path": "..\\CODERHOUSE\\CLASE 3"
+		},
+		{
+			"name": "CLASE 4",
+			"path": "..\\CODERHOUSE\\CLASE 4"
+		},
+		{
+			"name": "CLASE 5",
+			"path": "..\\CODERHOUSE\\CLASE 5"
+		},
+		{
+			"name": "CLASE 6",
+			"path": "..\\CODERHOUSE\\CLASE 6"
+		},
+		{
+			"name": "CLASE 7",
+			"path": "..\\CODERHOUSE\\CLASE 7"
+		},
+		{
+			"name": "CLASE 8",
+			"path": "..\\CODERHOUSE\\CLASE 8"
+		},
+		{
+			"name": "GRID",
+			"path": "..\\GRID"
+		},
+		{
+			"name": "CLASE 9",
+			"path": "..\\CODERHOUSE\\CLASE 9"
+		},
+		{
+			"name": "desafio 3",
+			"path": "..\\desafio 3"
+		},
+		{
+			"name": "templatemo_569_edu_meeting",
+			"path": "D:\\Descargas Web\\templatemo_569_edu_meeting\\templatemo_569_edu_meeting"
+		},
+		{
+			"name": "Paginas Web by nico",
+			"path": "..\\Programacion\\Paginas Web by nico"
+		},
+		{
+			"name": "Desafio 2",
+			"path": "..\\CODERHOUSE\\Desafio2-nicolasfuentes\\desafio 2\\Desafio 2"
+		},
+		{
+			"name": "desa4",
+			"path": "..\\desa4"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "desa4"
+	}
+}
